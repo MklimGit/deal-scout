@@ -1,0 +1,10 @@
+{
+  "product": "wireless noise-cancelling headphones",
+  "brand": "Sony or Bose",
+  "priceLimit": 300,
+  "currency": "SGD",
+  "vendorCountry": "Singapore",
+  "ageGroup": "adult",
+  "characteristics": ["over-ear", "at least 20 hour battery life", "USB-C"],
+  "maxResultsPerRun": 5
+}
