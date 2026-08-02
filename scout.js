@@ -35,7 +35,7 @@ const response = await fetch(
   }
 );
 
-const data = await response.json();
+const data = await response.json();console.log("RAW API RESPONSE:", JSON.stringify(data));
 let text = data.candidates?.[0]?.content?.parts?.map(p => p.text).join("") || "[]";
 text = text.replace(/```json|```/g, "").trim();
 
