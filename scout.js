@@ -42,6 +42,11 @@ ${JSON.stringify(results, null, 2)}
 
 For each matching deal, extract or estimate: title, price (number, or null if not stated), currency, vendor, url, whyGoodDeal (one sentence).
 Only include results that are plausibly real product listings, not articles or unrelated pages.
+
+IMPORTANT ACCURACY RULES:
+- Only use a "url" value if it comes directly from the SAME search result entry as the title and vendor you are describing. Never mix a title from one result with a url from a different result.
+- If you are not fully confident a url belongs to that exact listing, set "url" to the search result's own url field exactly as given, even if it looks like a generic search page rather than a specific product page.
+- Do not invent, guess, or "clean up" any url.
 Respond with ONLY a valid JSON array, no markdown fences, no explanation. Example:
 [{"title":"...","price":199,"currency":"SGD","vendor":"...","url":"...","whyGoodDeal":"..."}]
 `;
