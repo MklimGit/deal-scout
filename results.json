@@ -30,5 +30,34 @@
   {
     "date": "2026-08-04",
     "deals": []
+  },
+  {
+    "date": "2026-08-04",
+    "deals": [
+      {
+        "title": "Sony WH-CH720N Noise Canceling Wireless Headphones Bluetooth Over The Ear Headset (Black)",
+        "price": 117.72,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/bose-headphones/s?k=bose+headphones",
+        "whyGoodDeal": "An exceptional limited-time deal offering more than 52% off the list price of S$249.00 for a quality over-ear ANC model."
+      },
+      {
+        "title": "Sony WH-CH720N Noise Canceling Wireless Over-Ear Headphones",
+        "price": 135.29,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/sony-noise-cancelling-headphones/s?k=sony+noise+cancelling+headphones",
+        "whyGoodDeal": "Provides a solid discount of over S$113 off the original retail price for a lightweight, long-lasting over-ear noise-cancelling headset."
+      },
+      {
+        "title": "Sony WH-CH720N Wireless Noise Cancelling Headphone (Black)",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Harvey Norman Singapore",
+        "url": "https://www.harveynorman.com.sg/promotions/sony-headphones-promotions.html",
+        "whyGoodDeal": "This eligible over-ear noise-cancelling model can be purchased with additional savings via Spin & Bao Win e-Voucher redemptions."
+      }
+    ]
   }
 ]
