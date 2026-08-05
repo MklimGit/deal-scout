@@ -80,5 +80,26 @@
         "whyGoodDeal": "Offers a massive discount from the S$249.00 list price for a reputable Sony over-ear model that features active noise cancellation, long battery life, and USB-C charging."
       }
     ]
+  },
+  {
+    "date": "2026-08-05",
+    "deals": [
+      {
+        "title": "Sony WH-CH720N Noise Canceling Wireless Headphones",
+        "price": 117.72,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.amazon.sg%2Fbose%2Dheadphones%2Fs%3Fk%3Dbose%2Bheadphones&amp;rut=63f96928d76c235c9effe64abd4f98f5ff26dee6e2925c9b0e75c05d070dada7",
+        "whyGoodDeal": "This limited-time deal offers over 50% savings off the S$249.00 list price for highly-rated over-ear noise-cancelling headphones featuring 35 hours of battery life and USB-C."
+      },
+      {
+        "title": "Sony WH-CH720N Noise Canceling Wireless Headphones",
+        "price": 135.29,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.amazon.sg%2Fsony%2Dnoise%2Dcancelling%2Dheadphones%2Fs%3Fk%3Dsony%2Bnoise%2Bcancelling%2Bheadphones&amp;rut=412b7a473efe129ae4364cb210c0154aa8cafe86ecddd7ad77e5080e7576b6a1",
+        "whyGoodDeal": "This offer provides a solid 45% discount off the S$249.00 list price for excellent over-ear noise-cancelling headphones."
+      }
+    ]
   }
 ]
