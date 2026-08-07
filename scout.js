@@ -21,7 +21,21 @@ const snippetRegex = /<a class="result__snippet"[^>]*>([\s\S]*?)<\/a>/g;
 let linkMatch, snippetMatch;
 const links = [];
 const snippets = [];
-while ((linkMatch = linkRegex.exec(searchHtml)) !== null) links.push({ url: linkMatch[1], title: linkMatch[2] });
+// Unwraps DuckDuckGo's "uddg=" redirect links into the real destination URL
+function resolveUrl(rawUrl) {
+  const cleaned = rawUrl.replace(/&amp;/g, "&");
+  const match = cleaned.match(/uddg=([^&]+)/);
+  if (match) {
+    try {
+      return decodeURIComponent(match[1]);
+    } catch (e) {
+      return cleaned;
+    }
+  }
+  return cleaned;
+}
+
+while ((linkMatch = linkRegex.exec(searchHtml)) !== null) links.push({ url: resolveUrl(linkMatch[1]), title: linkMatch[2] });
 while ((snippetMatch = snippetRegex.exec(searchHtml)) !== null) snippets.push(snippetMatch[1].replace(/<[^>]+>/g, ""));
 for (let i = 0; i < Math.min(links.length, 8); i++) {
   results.push({ title: links[i].title, url: links[i].url, snippet: snippets[i] || "" });
