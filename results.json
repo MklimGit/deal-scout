@@ -143,5 +143,26 @@
         "whyGoodDeal": "This featured Sony model is available from a trusted local retailer and qualifies for Spin & Win e-Voucher redemptions."
       }
     ]
+  },
+  {
+    "date": "2026-08-07",
+    "deals": [
+      {
+        "title": "Sony WH-CH720N Noise Canceling Wireless Headphones Bluetooth Over The Ear Headset",
+        "price": 135.3,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/sony-noise-cancelling-headphones/s?k=sony+noise+cancelling+headphones",
+        "whyGoodDeal": "It offers high-quality Sony active noise cancelling and comfortable over-ear design at a steep discount off its regular S$249.00 retail price."
+      },
+      {
+        "title": "BOSE QuietComfort Wireless Noise Cancelling Headphones, Over Ear Headphones",
+        "price": 346.46,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/bose-headphones/s?k=bose+headphones",
+        "whyGoodDeal": "This limited-edition premium Bose headset features legendary noise cancelling, 24-hour battery life, and USB-C charging at a heavily reduced price well within budget."
+      }
+    ]
   }
 ]
