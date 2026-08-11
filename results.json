@@ -251,5 +251,26 @@
         "whyGoodDeal": "A great promotional offer from a reputable Singapore retailer for Sony's popular over-ear noise-cancelling headphones."
       }
     ]
+  },
+  {
+    "date": "2026-08-11",
+    "deals": [
+      {
+        "title": "BOSE QuietComfort Wireless Noise Cancelling Headphones, Over Ear Headphones with Bluetooth with Up to 24 Hours of Battery Life, Dusk Blue - Limited Edition",
+        "price": 346.46,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/bose-headphones/s?k=bose+headphones",
+        "whyGoodDeal": "This premium Bose over-ear headset features excellent active noise cancellation, a 24-hour battery life, and is priced well under the 800 SGD budget."
+      },
+      {
+        "title": "Sony WH-CH720N Wireless Noise Cancelling Headphone - Black",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Harvey Norman Singapore",
+        "url": "https://www.harveynorman.com.sg/promotions/sony-headphones-promotions.html",
+        "whyGoodDeal": "A highly-rated over-ear Sony option with active noise cancellation and USB-C, available through a trusted Singaporean retailer."
+      }
+    ]
   }
 ]
