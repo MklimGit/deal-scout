@@ -272,5 +272,26 @@
         "whyGoodDeal": "A highly-rated over-ear Sony option with active noise cancellation and USB-C, available through a trusted Singaporean retailer."
       }
     ]
+  },
+  {
+    "date": "2026-08-12",
+    "deals": [
+      {
+        "title": "Sony WH-CH720N Noise Canceling Wireless Headphones",
+        "price": 128.98,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/wireless-headphones-noise-cancelling/s?k=wireless+headphones+noise+cancelling",
+        "whyGoodDeal": "This over-ear model from Sony features active noise cancellation, over 30 hours of battery life, USB-C charging, and is heavily discounted from its list price."
+      },
+      {
+        "title": "Sony WH-CH720N Wireless Noise Cancelling Headphone - Black",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Harvey Norman Singapore",
+        "url": "https://www.harveynorman.com.sg/promotions/sony-headphones-promotions.html",
+        "whyGoodDeal": "An excellent over-ear noise-cancelling choice with long battery life and USB-C from a reputable local Singapore retailer."
+      }
+    ]
   }
 ]
