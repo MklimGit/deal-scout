@@ -293,5 +293,42 @@
         "whyGoodDeal": "An excellent over-ear noise-cancelling choice with long battery life and USB-C from a reputable local Singapore retailer."
       }
     ]
+  },
+  {
+    "date": "2026-08-13",
+    "deals": [
+      {
+        "title": "Sony WH-CH720N Noise Canceling Wireless Headphones",
+        "price": 128.98,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/wireless-headphones-noise-cancelling/s?k=wireless+headphones+noise+cancelling",
+        "whyGoodDeal": "This highly-rated over-ear Sony headset features active noise cancellation, over 30 hours of battery life, USB-C, and is heavily discounted below its list price."
+      },
+      {
+        "title": "Sony WH-CH720N Noise Canceling Wireless Headphones",
+        "price": 135.57,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/sony-noise-cancelling-headphones/s?k=sony+noise+cancelling+headphones",
+        "whyGoodDeal": "Offers a massive discount from the list price of S$249.00 for a trusted over-ear Sony headset with long battery life and USB-C."
+      },
+      {
+        "title": "Sony WH-CH720N Wireless Noise Cancelling Headphone - Black",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Harvey Norman Singapore",
+        "url": "https://www.harveynorman.com.sg/promotions/sony-headphones-promotions.html",
+        "whyGoodDeal": "A reliable over-ear model from Sony featuring active noise cancellation that qualifies for Harvey Norman's Spin & Win e-Voucher promotion."
+      },
+      {
+        "title": "Bose QuietComfort Headphones",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Lazada Singapore",
+        "url": "https://www.lazada.sg/tag/bose-quietcomfort/",
+        "whyGoodDeal": "Provides a direct way to shop for authentic, top-tier Bose QuietComfort over-ear headphones known for world-class noise cancellation and USB-C connectivity."
+      }
+    ]
   }
 ]
