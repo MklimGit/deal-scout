@@ -330,5 +330,50 @@
         "whyGoodDeal": "Provides a direct way to shop for authentic, top-tier Bose QuietComfort over-ear headphones known for world-class noise cancellation and USB-C connectivity."
       }
     ]
+  },
+  {
+    "date": "2026-08-14",
+    "deals": [
+      {
+        "title": "Sony WH-CH720N Noise Canceling Wireless Headphones",
+        "price": 128.98,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/wireless-headphones-noise-cancelling/s?k=wireless+headphones+noise+cancelling",
+        "whyGoodDeal": "This is a significant discount on highly-rated over-ear Sony headphones, priced at S$128.98, down from the list price of S$249.00."
+      },
+      {
+        "title": "Sony WH-CH720N Noise Canceling Wireless Headphones",
+        "price": 135.57,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/sony-noise-cancelling-headphones/s?k=sony+noise+cancelling+headphones",
+        "whyGoodDeal": "Offers authentic Sony over-ear noise-cancelling headphones with Alexa built-in for S$135.57, well below the S$249.00 list price."
+      },
+      {
+        "title": "Sony WH-CH720N Wireless Noise Cancelling Headphone",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Harvey Norman Singapore",
+        "url": "https://www.harveynorman.com.sg/promotions/sony-headphones-promotions.html",
+        "whyGoodDeal": "Features the lightweight, over-ear Sony WH-CH720N model with eligibility for local Spin & Win e-Voucher promotional redemptions."
+      },
+      {
+        "title": "Bose QuietComfort Headphones",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Lazada Singapore",
+        "url": "https://www.lazada.sg/tag/bose-quietcomfort/",
+        "whyGoodDeal": "Provides access to premium over-ear Bose QuietComfort headphones known for industry-leading active noise cancellation on Lazada Singapore."
+      },
+      {
+        "title": "Bose Wireless Over-The-Ear Headphones",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Lazada Singapore",
+        "url": "https://www.lazada.sg/shop-ce-headphones/bose/",
+        "whyGoodDeal": "Offers highly reliable over-the-ear wireless Bose headphones with premium lossless audio quality on Lazada's Singapore portal."
+      }
+    ]
   }
 ]
