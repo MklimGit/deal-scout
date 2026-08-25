@@ -544,5 +544,18 @@
         "whyGoodDeal": "This premium over-ear headset is highly discounted from S$499.00 to S$310.25 and features an impressive battery life of up to 24 hours."
       }
     ]
+  },
+  {
+    "date": "2026-08-25",
+    "deals": [
+      {
+        "title": "BOSE QuietComfort Wireless Noise Cancelling Headphones, Dusk Blue - Limited Edition",
+        "price": 310.25,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/bose-headphones/s?k=bose+headphones",
+        "whyGoodDeal": "These premium Bose over-ear headphones offer top-tier noise cancellation and up to 24 hours of battery life at a heavily discounted price of S$310.25 (down from S$499.00), well under your S$800 budget."
+      }
+    ]
   }
 ]
