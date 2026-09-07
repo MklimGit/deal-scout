@@ -784,5 +784,26 @@
         "whyGoodDeal": "At S$249.00, this premium Sony over-ear model offers industry-leading noise cancellation, 30 hours of battery life, and USB-C fast charging well below your S$800 budget."
       }
     ]
+  },
+  {
+    "date": "2026-09-07",
+    "deals": [
+      {
+        "title": "Sony WH-1000XM5 Wireless Noise-Cancelling Headphones, Black",
+        "price": 249,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/sony-noise-cancelling-headphones/s?k=sony+noise+cancelling+headphones",
+        "whyGoodDeal": "Features the highly-rated premium Sony WH-1000XM5 over-ear headphones at a heavily discounted price of S$249.00, well below the S$800 budget."
+      },
+      {
+        "title": "BOSE QuietComfort SC Wireless Noise Cancelling Headphones",
+        "price": 327.36,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/bose-headphones/s?k=bose+headphones",
+        "whyGoodDeal": "Offers premium Bose noise cancellation, over-ear comfort, and up to 24 hours of battery life for S$327.36, comfortably under the S$800 limit."
+      }
+    ]
   }
 ]
