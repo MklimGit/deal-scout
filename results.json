@@ -809,5 +809,34 @@
   {
     "date": "2026-09-08",
     "deals": []
+  },
+  {
+    "date": "2026-09-09",
+    "deals": [
+      {
+        "title": "Bose QuietComfort Ultra Wireless Noise Cancelling Headphones",
+        "price": 390.73,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/bose-headphones/s?k=bose+headphones",
+        "whyGoodDeal": "These premium Bose over-ear headphones are discounted to S$390.73 from S$599.00, offering 24 hours of battery life and spatial audio."
+      },
+      {
+        "title": "Sony WH-1000XM5 Wireless Noise-Cancelling Headphones",
+        "price": 249,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/sony-noise-cancelling-headphones/s?k=sony+noise+cancelling+headphones",
+        "whyGoodDeal": "The highly-rated, industry-leading Sony flagship over-ear headphones are available for an exceptionally low price of S$249.00 on Amazon.sg."
+      },
+      {
+        "title": "Bose QuietComfort Wireless Noise Cancelling Headphones",
+        "price": 359,
+        "currency": "SGD",
+        "vendor": "Harvey Norman Singapore",
+        "url": "https://www.harveynorman.com.sg/bose/",
+        "whyGoodDeal": "You save S$140 off the S$499 list price during this sale, with an additional 5% discount when added to the cart."
+      }
+    ]
   }
 ]
