@@ -838,5 +838,34 @@
         "whyGoodDeal": "You save S$140 off the S$499 list price during this sale, with an additional 5% discount when added to the cart."
       }
     ]
+  },
+  {
+    "date": "2026-09-10",
+    "deals": [
+      {
+        "title": "Sony WH-CH720N Noise Canceling Wireless Headphones (Black)",
+        "price": 129.31,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/sony-noise-cancelling-headphones/s?k=sony+noise+cancelling+headphones",
+        "whyGoodDeal": "This highly-rated Sony over-ear headset is heavily discounted to S$129.31 from its list price of S$249.00."
+      },
+      {
+        "title": "Sony WH-CH720N Noise Canceling Wireless Headphones (Black) with Mastercard Promotion",
+        "price": 129.68,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/noise-cancelling-headphones/s?k=noise+cancelling+headphones",
+        "whyGoodDeal": "Priced at S$129.68, this offer includes an additional S$5.00 off when paying with a Mastercard."
+      },
+      {
+        "title": "Sony WH-CH720N Wireless Noise Cancelling Headphone (Blue)",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Harvey Norman Singapore",
+        "url": "https://www.harveynorman.com.sg/promotions/sony-headphones-promotions.html",
+        "whyGoodDeal": "Harvey Norman Singapore is offering an extra 8% off this qualifying over-ear Sony headset when added to the cart."
+      }
+    ]
   }
 ]
