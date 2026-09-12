@@ -896,5 +896,34 @@
         "whyGoodDeal": "Harvey Norman is offering an extra 8% off at checkout on this highly-rated Sony over-ear model with 35-hour battery life."
       }
     ]
+  },
+  {
+    "date": "2026-09-12",
+    "deals": [
+      {
+        "title": "Sony WH-CH720N Noise Canceling Wireless Headphones",
+        "price": 129.31,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/sony-noise-cancelling-headphones/s?k=sony+noise+cancelling+headphones",
+        "whyGoodDeal": "Offers a massive discount off the list price of S$249.00 for a highly-rated, over-ear Sony headset."
+      },
+      {
+        "title": "BOSE QuietComfort Ultra Wireless Noise Cancelling Headphones",
+        "price": 376.56,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/bose-headphones/s?k=bose+headphones",
+        "whyGoodDeal": "Provides a steep discount from the S$599.00 list price for top-tier spatial audio headphones with 24-hour battery life."
+      },
+      {
+        "title": "Sony WH-CH720N Wireless Noise Cancelling Headphone - Blue",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Harvey Norman Singapore",
+        "url": "https://www.harveynorman.com.sg/promotions/sony-headphones-promotions.html",
+        "whyGoodDeal": "Allows you to get an additional 8% off upon adding this popular noise-cancelling model to your cart."
+      }
+    ]
   }
 ]
