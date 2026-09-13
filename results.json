@@ -925,5 +925,26 @@
         "whyGoodDeal": "Allows you to get an additional 8% off upon adding this popular noise-cancelling model to your cart."
       }
     ]
+  },
+  {
+    "date": "2026-09-13",
+    "deals": [
+      {
+        "title": "Sony WH-CH720N Noise Canceling Wireless Headphones",
+        "price": 129.31,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/sony-noise-cancelling-headphones/s?k=sony+noise+cancelling+headphones",
+        "whyGoodDeal": "Great discount on comfortable over-ear headphones with active noise cancellation and USB-C charging, priced at S$129.31 down from S$249.00."
+      },
+      {
+        "title": "BOSE QuietComfort SC Wireless Noise Cancelling Headphones",
+        "price": 311.04,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/bose-headphones/s?k=bose+headphones",
+        "whyGoodDeal": "Premium noise-cancelling over-ear headphones featuring up to 24 hours of battery life and USB-C for under S$320."
+      }
+    ]
   }
 ]
