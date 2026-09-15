@@ -975,5 +975,26 @@
         "whyGoodDeal": "Harvey Norman is offering these over-ear Sony noise-cancelling headphones with an additional 8% discount upon adding them to your cart."
       }
     ]
+  },
+  {
+    "date": "2026-09-15",
+    "deals": [
+      {
+        "title": "Sony WHCH720N Wireless Over The Ear Noise Canceling Headphones",
+        "price": 136.65,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/sony-noise-cancelling-headphones/s?k=sony+noise+cancelling+headphones",
+        "whyGoodDeal": "This model offers lightweight over-ear active noise cancellation and up to 35 hours of battery life with USB-C charging at a very affordable price."
+      },
+      {
+        "title": "BOSE QuietComfort SC Wireless Noise Cancelling Headphones",
+        "price": 311.04,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/bose-headphones/s?k=bose+headphones",
+        "whyGoodDeal": "Premium noise-cancelling over-ear headphones that feature up to 24 hours of battery life and USB-C quick charging, well under the S$800 budget."
+      }
+    ]
   }
 ]
