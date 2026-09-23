@@ -1117,5 +1117,26 @@
         "whyGoodDeal": "Offers premium Bose noise cancellation, comfortable over-ear fit, and up to 24 hours of battery life for S$313.63."
       }
     ]
+  },
+  {
+    "date": "2026-09-23",
+    "deals": [
+      {
+        "title": "Sony WH-CH720N Noise Canceling Wireless Headphones",
+        "price": 129.52,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/sony-noise-cancelling-headphones/s?k=sony+noise+cancelling+headphones",
+        "whyGoodDeal": "An excellent, budget-friendly over-ear option from Sony offering active noise cancellation and long battery life at a 48% discount from its list price."
+      },
+      {
+        "title": "BOSE QuietComfort Ultra Wireless Noise Cancelling Headphones",
+        "price": 353.2,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/bose-headphones/s?k=bose+headphones",
+        "whyGoodDeal": "A premium flagship model from Bose featuring spatial audio, top-tier noise cancellation, and 24-hour battery life, heavily discounted from S$599.00."
+      }
+    ]
   }
 ]
