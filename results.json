@@ -1179,5 +1179,26 @@
   {
     "date": "2026-09-27",
     "deals": []
+  },
+  {
+    "date": "2026-09-28",
+    "deals": [
+      {
+        "title": "BOSE QuietComfort Wireless Noise Cancelling Headphones, Bluetooth Over Ear Headphones with Up To 24 Hours of Battery Life, Petal Pink - Limited Edition",
+        "price": 324.72,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/bose-headphones/s?k=bose+headphones",
+        "whyGoodDeal": "Offers premium Bose noise cancellation and 24 hours of battery life with a massive discount off the S$499 list price."
+      },
+      {
+        "title": "Sony Wireless Noise Cancelling Headphones - Black (WH-1000XM5)",
+        "price": 309,
+        "currency": "SGD",
+        "vendor": "Harvey Norman Singapore",
+        "url": "https://www.harveynorman.com.sg/promotions/sony-headphones-promotions.html",
+        "whyGoodDeal": "Provides Sony's flagship noise-cancelling over-ear headphones at an incredible savings of S$280 off the original price."
+      }
+    ]
   }
 ]
