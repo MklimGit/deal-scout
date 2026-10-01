@@ -1242,5 +1242,26 @@
         "whyGoodDeal": "These premium Bose over-ear headphones feature up to 24 hours of battery life and are heavily discounted to S$321.16 from their S$499.00 list price."
       }
     ]
+  },
+  {
+    "date": "2026-10-01",
+    "deals": [
+      {
+        "title": "BOSE QuietComfort Wireless Noise Cancelling Headphones",
+        "price": 349.45,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/bose-headphones/s?k=bose+headphones",
+        "whyGoodDeal": "Offers a significant discount of S$149.55 off the list price for premium Bose over-ear headphones with 24 hours of battery life and USB-C charging."
+      },
+      {
+        "title": "Sony Wireless Noise Cancelling Headphones - Black (WH-1000XM5)",
+        "price": 309,
+        "currency": "SGD",
+        "vendor": "Harvey Norman Singapore",
+        "url": "https://www.harveynorman.com.sg/promotions/sony-headphones-promotions.html",
+        "whyGoodDeal": "An outstanding S$280 saving on Sony's flagship WH-1000XM5 noise-cancelling headphones, featuring 30 hours of battery life and USB-C fast charging."
+      }
+    ]
   }
 ]
