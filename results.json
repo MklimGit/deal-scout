@@ -1438,5 +1438,50 @@
         "whyGoodDeal": "Delivers premium Bose spatial audio and noise cancellation with up to 24 hours of battery life under the 800 SGD budget."
       }
     ]
+  },
+  {
+    "date": "2026-10-17",
+    "deals": [
+      {
+        "title": "Sony ULT WEAR Over-Ear Noise Canceling Wireless Headphones",
+        "price": 213.8,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/sony-noise-cancelling-headphones/s?k=sony+noise+cancelling+headphones",
+        "whyGoodDeal": "Delivers signature 1000X series noise cancellation, over-ear design, and 30-hour battery life for under S$220."
+      },
+      {
+        "title": "Bose QuietComfort Headphones",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Lazada Singapore",
+        "url": "https://www.lazada.sg/tag/bose-quietcomfort/",
+        "whyGoodDeal": "Offers authentic top-rated Bose over-ear noise-cancelling headphones directly on Lazada Singapore."
+      },
+      {
+        "title": "Sony Noise Cancelling Headphones",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Sony Singapore",
+        "url": "https://www.sony.com.sg/headphones/noise-cancelling",
+        "whyGoodDeal": "Direct store channel from Sony Singapore for official over-ear wireless noise-cancelling models."
+      },
+      {
+        "title": "Bose Wireless Over-Ear Headphones",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Lazada Singapore",
+        "url": "https://www.lazada.sg/shop-ce-headphones/bose/",
+        "whyGoodDeal": "Features genuine Bose over-the-ear noise-cancelling models with reliable Bluetooth connectivity on Lazada."
+      },
+      {
+        "title": "Bose Noise Cancelling Headphones",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Shopee Singapore",
+        "url": "https://shopee.sg/list/bose/noise%20cancelling%20headphones",
+        "whyGoodDeal": "Shopee Singapore offers secure buyer protection vouchers on Bose noise-cancelling over-ear headphones."
+      }
+    ]
   }
 ]
