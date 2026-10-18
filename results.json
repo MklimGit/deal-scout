@@ -1483,5 +1483,26 @@
         "whyGoodDeal": "Shopee Singapore offers secure buyer protection vouchers on Bose noise-cancelling over-ear headphones."
       }
     ]
+  },
+  {
+    "date": "2026-10-18",
+    "deals": [
+      {
+        "title": "Sony ULT WEAR Over-Ear Noise Canceling Wireless Headphones",
+        "price": 213.8,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/sony-noise-cancelling-headphones/s?k=sony+noise+cancelling+headphones",
+        "whyGoodDeal": "Offers signature 1000X series noise cancellation and an impressive 30-hour battery life for well under the 800 SGD limit."
+      },
+      {
+        "title": "BOSE QuietComfort Ultra Wireless Noise Cancelling Headphones",
+        "price": 321.55,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/bose-headphones/s?k=bose+headphones",
+        "whyGoodDeal": "Top-tier Bose over-ear headphones featuring spatial audio and 24 hours of battery life heavily discounted from the S$599.00 list price."
+      }
+    ]
   }
 ]
