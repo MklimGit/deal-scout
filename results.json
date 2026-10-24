@@ -1617,5 +1617,50 @@
         "whyGoodDeal": "Top-tier Bose over-ear headphones with customizable listening modes and up to 24-hour battery life."
       }
     ]
+  },
+  {
+    "date": "2026-10-24",
+    "deals": [
+      {
+        "title": "BOSE QuietComfort Wireless Noise Cancelling Headphones",
+        "price": 330.08,
+        "currency": "SGD",
+        "vendor": "Amazon Singapore",
+        "url": "https://www.amazon.sg/bose-headphones/s?k=bose+headphones",
+        "whyGoodDeal": "Significant discount from the S$499 list price to S$330.08 for over-ear noise-cancelling headphones offering up to 24 hours of battery life."
+      },
+      {
+        "title": "Bose QuietComfort Ultra Headphones",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Lazada Singapore",
+        "url": "https://www.lazada.sg/tag/bose-700-headphones/",
+        "whyGoodDeal": "Offers premium over-ear noise cancellation, customizable listening modes, and up to 24 hours of battery life."
+      },
+      {
+        "title": "Bose QuietComfort Headphones",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Lazada Singapore",
+        "url": "https://www.lazada.sg/tag/bose-quietcomfort/",
+        "whyGoodDeal": "Features top-rated Bose noise-cancelling performance and over-ear comfort with authentic product deals on Lazada SG."
+      },
+      {
+        "title": "Bose Noise Cancelling Headphones",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Shopee Singapore",
+        "url": "https://shopee.sg/list/bose/noise%20cancelling%20headphones",
+        "whyGoodDeal": "Provides sale prices and discount vouchers on authentic Bose noise-cancelling headphones backed by Shopee Guarantee."
+      },
+      {
+        "title": "Bose Headphones",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Shopee Singapore",
+        "url": "https://shopee.sg/list/bose/headphones",
+        "whyGoodDeal": "Offers online sale prices and buyer protection benefits for Bose wireless headphones in Singapore."
+      }
+    ]
   }
 ]
