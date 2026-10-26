@@ -1666,5 +1666,34 @@
   {
     "date": "2026-10-25",
     "deals": []
+  },
+  {
+    "date": "2026-10-26",
+    "deals": [
+      {
+        "title": "BOSE QuietComfort Wireless Noise Cancelling Headphones, Over Ear Headphones with Bluetooth with Up to 24 Hours of Battery Life, Dusk Blue - Limited Edition",
+        "price": 330.08,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/bose-headphones/s?k=bose+headphones",
+        "whyGoodDeal": "Offers premium Bose over-ear noise-cancelling headphones with 24 hours of battery life discounted from S$499.00 down to S$330.08."
+      },
+      {
+        "title": "Sony WH-CH720N Noise Canceling Wireless Headphones Bluetooth Over The Ear Headset",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/sony-noise-cancelling-headphones/s?k=sony+noise+cancelling+headphones",
+        "whyGoodDeal": "Highly rated Sony over-ear noise-cancelling wireless headphones listed on Amazon Singapore with a 54% savings deal."
+      },
+      {
+        "title": "Bose QuietComfort Headphones",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Lazada Singapore",
+        "url": "https://www.lazada.sg/tag/bose-quietcomfort/",
+        "whyGoodDeal": "Offers authentic Bose QuietComfort over-ear noise-cancelling headphone listings and deals on Lazada Singapore."
+      }
+    ]
   }
 ]
