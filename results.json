@@ -1695,5 +1695,34 @@
         "whyGoodDeal": "Offers authentic Bose QuietComfort over-ear noise-cancelling headphone listings and deals on Lazada Singapore."
       }
     ]
+  },
+  {
+    "date": "2026-10-27",
+    "deals": [
+      {
+        "title": "Sony WH-CH720N Noise Cancelling Wireless Bluetooth Headphones",
+        "price": 158.61,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/sony-noise-cancelling-headphones/s?k=sony+noise+cancelling+headphones",
+        "whyGoodDeal": "Offers over-ear active noise cancellation with up to 35 hours of battery life at a heavily discounted price down from S$249.00."
+      },
+      {
+        "title": "BOSE QuietComfort Wireless Noise Cancelling Headphones (Dusk Blue)",
+        "price": 330.08,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/bose-headphones/s?k=bose+headphones",
+        "whyGoodDeal": "Delivers premium over-ear noise cancellation and up to 24 hours of battery life for S$330.08, reduced from its S$499.00 list price."
+      },
+      {
+        "title": "Sony Wireless Noise Cancelling Headphones - Black (WH-1000XM5)",
+        "price": 329,
+        "currency": "SGD",
+        "vendor": "Harvey Norman Singapore",
+        "url": "https://www.harveynorman.com.sg/promotions/sony-headphones-promotions.html",
+        "whyGoodDeal": "Flagship Sony WH-1000XM5 over-ear headphones are on a major promotion saving you S$260 off the retail price."
+      }
+    ]
   }
 ]
