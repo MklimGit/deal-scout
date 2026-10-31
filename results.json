@@ -1770,5 +1770,50 @@
         "whyGoodDeal": "Features premium Bose active noise cancellation and 24 hours of battery life for S$330.08, reduced from the S$499.00 list price."
       }
     ]
+  },
+  {
+    "date": "2026-10-31",
+    "deals": [
+      {
+        "title": "BOSE QuietComfort Wireless Noise Cancelling Headphones",
+        "price": 549.49,
+        "currency": "SGD",
+        "vendor": "Amazon Singapore",
+        "url": "https://www.amazon.sg/bose-headphones/s?k=bose+headphones",
+        "whyGoodDeal": "Offers premium Bose over-ear noise-cancelling headphones with 24 hours of battery life well within the 800 SGD budget."
+      },
+      {
+        "title": "Bose QuietComfort Headphones",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Lazada Singapore",
+        "url": "https://www.lazada.sg/tag/bose-quietcomfort/",
+        "whyGoodDeal": "Listing page for authentic Bose QuietComfort over-ear noise-cancelling headphones with local warranty and deals on Lazada Singapore."
+      },
+      {
+        "title": "Sony Headphones Promotions",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Sony Singapore",
+        "url": "https://www.sony.com.sg/microsite/promotions/myp-2026/headphones.html",
+        "whyGoodDeal": "Official Sony Singapore store promotion page featuring direct brand discounts on top-tier wireless noise-cancelling models."
+      },
+      {
+        "title": "Bose Noise Cancelling Headphones",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Shopee Singapore",
+        "url": "https://shopee.sg/list/bose/noise%20cancelling%20headphones",
+        "whyGoodDeal": "Aggregates sale prices and Shopee Guarantee benefits for wireless Bose noise-cancelling headphones."
+      },
+      {
+        "title": "Bose Headphones & Headsets",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Lazada Singapore",
+        "url": "https://www.lazada.sg/shop-ce-headphones/bose/",
+        "whyGoodDeal": "Official Bose category storefront on Lazada Singapore offering reliable wireless over-ear noise-cancelling models."
+      }
+    ]
   }
 ]
