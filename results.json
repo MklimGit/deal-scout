@@ -1815,5 +1815,34 @@
         "whyGoodDeal": "Official Bose category storefront on Lazada Singapore offering reliable wireless over-ear noise-cancelling models."
       }
     ]
+  },
+  {
+    "date": "2026-11-01",
+    "deals": [
+      {
+        "title": "Sony Wireless Noise Cancelling Headphones - Black (WH-1000XM5)",
+        "price": 329,
+        "currency": "SGD",
+        "vendor": "Harvey Norman Singapore",
+        "url": "https://www.harveynorman.com.sg/promotions/sony-headphones-promotions.html",
+        "whyGoodDeal": "Offers a significant discount of S$260 off the regular S$589 price for flagship Sony over-ear noise-cancelling headphones."
+      },
+      {
+        "title": "Bose QuietComfort Ultra Wireless Noise Cancelling Headphones",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/bose-headphones/s?k=bose+headphones",
+        "whyGoodDeal": "Features Bose's premium over-ear noise-cancelling headphones equipped with spatial audio and up to 24 hours of battery life."
+      },
+      {
+        "title": "Bose QuietComfort Ultra Headphones",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Lazada Singapore",
+        "url": "https://www.lazada.sg/tag/bose-700-headphones/",
+        "whyGoodDeal": "Provides advanced noise cancelling capabilities and up to 24-hour battery life on Lazada Singapore."
+      }
+    ]
   }
 ]
