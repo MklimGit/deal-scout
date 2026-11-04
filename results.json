@@ -1877,5 +1877,26 @@
   {
     "date": "2026-11-03",
     "deals": []
+  },
+  {
+    "date": "2026-11-04",
+    "deals": [
+      {
+        "title": "BOSE QuietComfort Ultra Wireless Noise Cancelling Headphones with Spatial Audio, Over-the-Ear Headphones with Mic, Up to 24 Hours of Battery Life, Diamond 60th Edition",
+        "price": 665.09,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/bose-headphones/s?k=bose+headphones",
+        "whyGoodDeal": "Features flagship noise-cancellation with spatial audio and 24-hour battery life priced safely below the 800 SGD budget limit."
+      },
+      {
+        "title": "Sony WH-CH720N Noise Canceling Wireless Headphones Bluetooth Over The Ear Headset with Microphone and Alexa Built-in, Black",
+        "price": 123.57,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/sony-noise-cancelling-headphones/s?k=sony+noise+cancelling+headphones",
+        "whyGoodDeal": "Provides a massive discount from its list price of S$249.00 for comfortable Sony over-ear noise-cancelling headphones."
+      }
+    ]
   }
 ]
