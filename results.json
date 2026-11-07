@@ -1948,5 +1948,26 @@
         "whyGoodDeal": "Offers reliable Sony over-ear noise cancelling technology for just S$123.57, down from its S$249.00 list price."
       }
     ]
+  },
+  {
+    "date": "2026-11-07",
+    "deals": [
+      {
+        "title": "Sony WH-CH720N Noise Canceling Wireless Headphones Bluetooth Over The Ear Headset",
+        "price": 123.57,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/sony-noise-cancelling-headphones/s?k=sony+noise+cancelling+headphones",
+        "whyGoodDeal": "Significantly discounted to S$123.57 from a S$249.00 list price, offering Sony noise cancellation in an over-ear wireless design."
+      },
+      {
+        "title": "Bose QuietComfort Headphones (2nd Gen.) - Wireless Over-Ear Headphones",
+        "price": null,
+        "currency": "SGD",
+        "vendor": "Amazon.sg",
+        "url": "https://www.amazon.sg/bose-headphones/s?k=bose+headphones",
+        "whyGoodDeal": "Matches all key features including active noise cancellation, over-ear design, USB-C charging, and up to 24 hours of playback."
+      }
+    ]
   }
 ]
